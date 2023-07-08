@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-top: 0;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+
+
+.button-container-1 {
+    background-color: #3882F6;
+    color: #f9faf8;
+    border: solid #3882F6;
+    border-radius: 7%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.section-1 {
+    background-color: #1F2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color:#f9faf8;
+}
+
+.section-1 {
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-right: 70px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.container-1-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+}
+
+.ss {
+    width: 500px;
+    height: 250px;
+}
+
+.img2{
+    width: 100px;
+    height: 100px;
+    border: solid #3882F6;
+    border-radius: 10%;
+}
+
+.section-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.section-2-h1 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+
+.section-2-img {
+    display: flex;
+    gap: 170px;
+}
+
+.section-2-text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.random {
+    padding: 30px;
+}
+
+.section-3 {
+    background-color: #e5e7eb;
+    padding: 90px;
+  
+  
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thor {
+    display: flex;
+    justify-content:flex-end;
+    padding-right: 700px;
+    font-weight: bold;
+}
